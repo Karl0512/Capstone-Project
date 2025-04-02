@@ -14,7 +14,7 @@
 
 2. install dependencies
    in terminal run
-     pip install -r requirements.txt
+     "pip install -r requirements.txt"
 
 3. run main.py
 
